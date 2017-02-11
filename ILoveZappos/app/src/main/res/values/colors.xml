@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mat_design1">#4CAF50</color>
+    <color name="mat_design2">#2196F3</color>
+    <color name="white">#F5F5F5</color>
+    <color name="gold">#FFD700</color>
+    <color name="green">#008000</color>
+    <color name="cyan">#00CED1</color>
+    <color name="blue">#18FFFF</color>
+
+
+</resources>

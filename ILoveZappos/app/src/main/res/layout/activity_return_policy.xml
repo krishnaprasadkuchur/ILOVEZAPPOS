@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. Krishna Prasad Kuchur,
+  ~
+  ~ This project is meant only for the use and assessment by Professor Timothy Lindquist of Arizona State Univeristy, for the course SER 423.
+  ~
+  ~ @author Krishna Prasad Kuchur  kkuchur@asu.deu
+  ~
+  ~ @version January 2017
+  -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Shipping and Returns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginLeft="5dp"
+
+        />
+
+    <TextView
+        android:layout_marginTop="14dp"
+        android:text="FREE Shipping"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="15dp"
+        android:layout_marginLeft="5dp"
+        android:textStyle="italic"
+        android:textColor="@color/colorPrimaryDark"/>
+
+    <TextView
+        android:text="@string/freereturn"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        />
+
+    <TextView
+        android:text="FREE Returns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:layout_marginTop="30dp"
+        android:textSize="15dp"
+        android:layout_marginLeft="5dp"
+        android:textStyle="italic"
+        android:textColor="@color/colorPrimaryDark"/>
+
+    <TextView
+        android:text="@string/freereturn"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        />
+
+</LinearLayout>
+</ScrollView>

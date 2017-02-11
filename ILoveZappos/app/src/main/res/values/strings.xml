@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+    <string name="search_title">Search</string>
+    <string name="shopping_cart">Shopping_Cart</string>
+    <string name="search_bar">Search_Bar</string>
+    <string name="share">Share</string>
+    <string name="customercare">Custome Care</string>
+    <string name="returnitem">Return Policy</string>
+    <string name="about">About Zappos</string>
+    <string name="firstpara">The year was 1999, and our founder Nick Swinmurn was walking around a mall in San Francisco looking for a pair of shoes. One store had the right style, but not the right color. Another store had the right color, but not the right size. Nick spent the next hour in the mall, walking from store to store, and finally went home empty-handed and frustrated.</string>
+    <string name="seventhpara">"Zappos and Amazon sitting in a tree..." - Tony Hsieh, CEO of Zappos.com, Inc.</string>
+    <string name="sixthpara">We believe that the speed at which a customer receives an online purchase plays a very important role in how that customer thinks about shopping online again in the future, so at Zappos.com, we have put a lot of focus on making sure the items get delivered to our customers as quickly as possible. In order to do that, we warehouse everything that we sell, and unlike most other online retailers, we don\'t make an item available for sale unless it is physically present in our warehouse.</string>
+    <string name="fifthpara">One day, 30% of all retail transactions in the US will be online.People will buy from the company with the best service and the best selection.Zappos.com will be that online store.</string>
+    <string name="fourthpara">So here is the vision:</string>
+    <string name="thirdpara">The original idea was to create a web site that offered the absolute best selection in shoes in terms of brands, styles, colors, sizes, and widths. Over the past 9 years, the brand and aspirations have evolved, and in addition to offering the best selection, with the goal to be the company that provides the absolute best service online -- not just in shoes, but in any category.</string>
+    <string name="secondpara">At home, Nick tried looking for his shoes online and was again unsuccessful. Although there were a lot of "mom and pop" stores selling shoes online, what was interesting to Nick was that there was no major online retailer that specialized in shoes. So, since it was 1999 and anything seemed possible at the time, Nick decided to quit his day job and start an online shoe retailer... and Zappos.com was born!</string>
+    <string name="goback">Navigate Back</string>
+    <string name="chatsupport">Ask your question right now with a member of the Zappos Customer Loyalty Team. Go Ahead and Start a Conversation Now!</string>
+    <string name="emailsupport">We look forward to helping you with your inquiry, send your mail to  pr@zappos.com</string>
+    <string name="support">We are here for you 24 hours a day - 365 days a year. 1-800-927-7671</string>
+    <string name="freereturn">If you are not 100% satisfied with your purchase, you can return your order to the warehouse for a full refund (Returns must be unworn, in the state you received them, and in the original packaging). We believe that in order to have the best possible online shopping experience, our customers should not have to pay for domestic return shipping. So if for whatever reason you\'re not happy with your purchase, just go through our easy self-service return process (via My Account) to print out a free return label - your domestic shipping costs are prepaid.</string>
+    <string name="freeshipping">Unlike many other web sites that have special rules and lots of fine print, Zappos.com offers free shipping on all domestic orders placed on our website, with no minimum order sizes or special exceptions.Just because shipping is free doesn\'t mean it should take a long time. Zappos.com understands that getting your items quickly is important to you, so we make every effort to process your order quickly.</string>
+    <string name="discount">OFF</string>
+    <string name="blank">" "</string>
+    <string-array name="items">
+        <item>Nike Flex 2016 RN</item>
+        <item>Nike Lunar Skyelux</item>
+        <item>Gel-Scram 3</item>
+        <item>Kendra Scott Elania Bracelet</item>
+        <item>COACH Glovetanned Leather Saddle 18</item>
+    </string-array>
+    <string-array name="items_category">
+        <item>Nike Flex</item>
+        <item>Nike Kids</item>
+        <item>Ascics</item>
+        <item>Kendra Scott</item>
+        <item>COACH</item>
+    </string-array>
+    <string-array name="item_price">
+        <item>$55</item>
+        <item>$32</item>
+        <item>$30</item>
+        <item>$120</item>
+        <item>$500</item>
+    </string-array>
+    <string name="line">  <strike> $55.00 </strike> </string>
+
+
+</resources>

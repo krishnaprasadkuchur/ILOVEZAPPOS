@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2017. Krishna Prasad Kuchur,
+  ~
+  ~ This project is meant only for the use and assessment by Professor Timothy Lindquist of Arizona State Univeristy, for the course SER 423.
+  ~
+  ~ @author Krishna Prasad Kuchur  kkuchur@asu.deu
+  ~
+  ~ @version January 2017
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/customer_care"
+        android:icon="@drawable/ic_call_black_24dp"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:title="@string/customercare">
+
+    </item>
+
+    <item
+        android:id="@+id/return_details"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        android:title="@string/returnitem"
+        android:enabled="true"
+        app:showAsAction="always">
+        </item>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_content_paste_black_24dp"
+        android:title="@string/about"
+        android:enabled="true"
+        app:showAsAction="always"></item>
+
+
+</menu>
